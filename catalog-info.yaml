@@ -5,6 +5,10 @@ metadata:
   annotations:
     github.com/project-slug: gy-org/crossplane-eks-demo-02
   description: crossplane-eks-demo-02 created by Crossplane
+  links:
+    - url: https://g-f742816bb4.grafana-workspace.ap-northeast-1.amazonaws.com/
+      title: Amazon Managed Grafana Dashboard URL
+      icon: grafana
 spec:
   type: cluster
   owner: user:guest
